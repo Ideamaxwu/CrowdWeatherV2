@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green">#ff9900</color>
+    <color name="red">#d54f34</color>
+    <color name="deep_blue">#1171e8</color>
+    <color name="gray">#f5f5f5</color>
+    <color name="orange">#ffa500</color>
+    <color name="calendar_today">#edffee</color>
+    <color name="black">#000000</color>
+
+</resources>
